@@ -1,0 +1,14 @@
+C:\School\C#\Labs\Lab9\Challenge\Week9Challenge\obj\Debug\net8.0\Week9Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\C#\Labs\Lab9\Challenge\Week9Challenge\obj\Debug\net8.0\Week9Challenge.AssemblyInfoInputs.cache
+C:\School\C#\Labs\Lab9\Challenge\Week9Challenge\obj\Debug\net8.0\Week9Challenge.AssemblyInfo.cs
+C:\School\C#\Labs\Lab9\Challenge\Week9Challenge\obj\Debug\net8.0\Week9Challenge.csproj.CoreCompileInputs.cache
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\bin\Debug\net8.0\Week9Challenge.exe
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\bin\Debug\net8.0\Week9Challenge.deps.json
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\bin\Debug\net8.0\Week9Challenge.runtimeconfig.json
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\bin\Debug\net8.0\Week9Challenge.dll
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\bin\Debug\net8.0\Week9Challenge.pdb
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\obj\Debug\net8.0\Week9Challenge.dll
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\obj\Debug\net8.0\refint\Week9Challenge.dll
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\obj\Debug\net8.0\Week9Challenge.pdb
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\obj\Debug\net8.0\Week9Challenge.genruntimeconfig.cache
+C:\School\C#\Labs\lab9\Challenge\Week9Challenge\obj\Debug\net8.0\ref\Week9Challenge.dll
